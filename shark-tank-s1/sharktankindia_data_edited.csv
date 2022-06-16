@@ -1,0 +1,118 @@
+Episode Number,Pitch Number,Brand,Idea,Category,Investment Amount (In Lakhs INR),Debt (In lakhs INR),Equity,Anupam,Ashneer,Namita,Aman,Peyush,Vineeta,Ghazal,Season
+1,1,BluePine Industries,Frozen Momos,Food,75,0,18%,N,Y,N,Y,N,Y,N,1
+1,2,Booz scooters,Renting e-bike for mobility in private spaces,Automobile,40,0,50%,N,Y,N,N,N,Y,N,1
+1,3,Heart up my Sleeves,Detachable Sleeves,Clothing,25,0,30%,Y,N,N,N,N,Y,N,1
+2,4,Tagz Foods,Healthy Potato Chips,Food,70,0,2.75%,N,Y,N,N,N,N,N,1
+2,5,Head and Heart,Brain Development Course,Professional Service,0,0,0,N,N,N,N,N,N,N,1
+2,6,Agro tourism,Tourism,Professional Service,0,0,0,N,N,N,N,N,N,N,1
+3,7,Qzense Labs,Food Freshness Detector,Technology,0,0,0,N,N,N,N,N,N,N,1
+3,8,Peeschute,Disposable Urine Bag,Health,75,0,6%,N,N,N,Y,N,N,N,1
+3,9,NOCD,Energy Drink,Food,20,30,15%,N,N,N,N,N,Y,N,1
+4,10,Cosiq,Intelligent Skincare,Health,50,0,25%,Y,N,N,N,N,Y,N,1
+4,11,JhaJi Achaar,Pickle,Food,0,0,0,N,N,N,N,N,N,N,1
+4,12,Bummer,Underwear,Clothing,75,0,7.50%,N,N,Y,Y,N,N,N,1
+5,13,Revamp Moto,E-Bike,Automobile,10,0,1.50%,Y,N,N,Y,N,N,N,1
+5,14,Hungry Heads,Restaurant serving 80 types of Maggi,Food,0,0,0,N,N,N,N,N,N,N,1
+5,15,Shrawani Engineers,Belly Button Shaper,Health,0,0,0,N,N,N,N,N,N,N,1
+6,16,Skippi Pops,Ice-Pops,Food,10,0,15%,Y,Y,Y,Y,N,Y,N,1
+6,17,Menstrupedia,Menstrual Awareness Comic,Health,50,0,20%,N,N,Y,N,N,N,N,1
+6,18,Hecolll,Pollution Resistant Fabric,Health,0,0,0,N,N,N,N,N,N,N,1
+7,19,Raising Superstars,Child Development App,Technology,10,0,4%,N,Y,N,Y,N,N,N,1
+7,20,Torch-it,Gadgets for visually impaired people,Technology,0,0,0,N,N,N,N,N,N,N,1
+7,21,La Kheer Deli,Kheer in variety of flavors,Food,0,0,0,N,N,N,N,N,N,N,1
+8,22,Beyond Snack,Kerala Banana Chips,Food,50,0,2.50%,N,Y,N,Y,N,N,N,1
+8,23,Vivalyf Innovations- Easy Life,Prickless Diabetes Testing Machine,Health,56,0,33.30%,Y,N,N,N,Y,N,N,1
+8,24,Motion Breeze,Smart Electric Motorcycle,Automobile,30,0,6%,N,Y,N,N,N,N,N,1
+9,25,Altor,Smart Helmets,Automobile,50,0,7%,N,N,Y,Y,N,N,N,1
+9,26,Ariro,Wooden Toys,Consumer,50,0,10%,N,N,N,Y,Y,N,N,1
+9,27,Kabira Handmade,Healthy Oils,Health,0,0,0,N,N,N,N,N,N,N,1
+10,28,Nuutjob,Male Intimate Hygiene,Health,25,0,20%,N,N,Y,Y,Y,N,N,1
+10,29,Meatyour,Eggs,Food,30,0,20%,Y,N,N,Y,Y,N,N,1
+10,30,EventBeep,Student Community App,Technology,30,0,3%,N,Y,N,Y,Y,N,N,1
+11,31,Gopal's 56,Fiber Ice Cream,Food,0,0,0,N,N,N,N,N,N,N,1
+11,32,ARRCOAT Surface Textures,Wall Building,Other,50,0,15%,Y,N,N,N,N,N,N,1
+11,33,Farda,Customised Streetwear,Clothing,30,0,20%,N,N,Y,Y,N,N,N,1
+12,34,Auli Lifestyle,Ayurvedic Products,Health,75,0,5%,N,N,Y,N,N,N,N,1
+12,35,SweeDesi,Indian Sweets,Food,0,0,0,N,N,N,N,N,N,N,1
+12,36,LOKA,Metaverse App,Technology,40,0,24%,Y,N,N,Y,Y,N,N,1
+13,37,Annie,Braille Literary Device,Other,10,0,3%,Y,N,Y,N,Y,N,N,1
+13,38,Caragreen,Eco-Friendly boxes,Other,50,0,20%,Y,N,N,N,Y,N,N,1
+13,39,The Yarn Bazaar,Yarn-Trading App,Technology,10,0,10%,Y,Y,N,Y,Y,N,N,1
+14,40,The Renal Project,Home Dialysis Treatment,Health,10,0,6%,N,N,Y,Y,N,N,N,1
+14,41,Morikko Pure Foods,Healthy Food Snacks,Food,0,0,0,N,N,N,N,N,N,N,1
+14,42,Good Good Piggy Bank,Digital Piggy Bank,Professional Service,0,0,0,N,N,N,N,N,N,N,1
+15,43,Hammer Lifestyle,Smart Audio Products,Consumer,10,0,40.00%,N,N,N,Y,N,N,N,1
+15,44,PNT,Robotics and Automation Solutions,Technology,25,25,25.00%,N,N,N,N,Y,N,N,1
+15,45,Cocofit,Coconut based beverage franchise,Food,5,0,5.00%,Y,N,Y,Y,N,N,N,1
+16,46,Bamboo India,Bamboo Products,Consumer,50,30,3.50%,Y,Y,N,N,N,N,N,1
+16,47,Flying Furr,Dog Hygiene,Health,0,0,0,N,N,N,N,N,N,N,1
+16,48,Beyond Water,Liquid Water Enhancer,Consumer,75,0,15.00%,N,N,Y,Y,N,N,N,1
+16,49,Let's Try,Healthy Snacks,Food,45,0,12.00%,Y,N,N,Y,N,N,N,1
+17,50,Find Your Kicks India,Sneaker Resale,Clothing,50,0,25.00%,Y,Y,Y,Y,Y,N,N,1
+17,51,Aas Vidyalaya,EdTech App,Technology,15,0,15.00%,N,Y,Y,N,Y,N,N,1
+17,52,Outbox,Premium Surprise-Planning,Professional Service,0,0,0,N,N,N,N,N,N,N,1
+17,53,RoadBounce,Pothole Detection Software and Data,Technology,80,0,20.00%,N,N,N,N,Y,N,N,1
+18,54,Mommy's Kitchen,Thin Crust Pizza,Food,0,0,0,N,N,N,N,N,N,N,1
+18,55,India Hemp and Co,Hemp Food Products,Food,0,0,0,N,N,N,N,N,N,N,1
+18,56,Otua,Electric Auto Vehicle,Automobile,1,99,1.00%,N,Y,N,N,N,N,N,1
+18,57,Anthyesti,Funeral Service,Professional Service,0,0,0,N,N,N,N,N,N,N,1
+19,58,Ethik,Leather-free Shoes,Clothing,0,0,0,N,N,N,N,N,N,N,1
+19,59,WeSTOCK,Livestock health monitoring AI,Technology,60,0,10.00%,N,Y,Y,Y,Y,N,N,1
+19,60,KetoIndia,Customised Keto Diets for various medical issues,Health,0,0,0,N,N,N,N,N,N,N,1
+19,61,Magic lock,LPG Cylinder lock,Other,0,0,0,N,N,N,N,N,N,N,1
+20,62,The State Plate,Delicacies,Food,40,25,3.00%,N,N,N,N,Y,N,N,1
+20,63,Bakarmax,Comics & Animation,Other,0,0,0,N,N,N,N,N,N,N,1
+20,64,IN A CAN,Can Cocktails,Food,10,0,10.00%,Y,Y,Y,Y,Y,N,N,1
+21,65,Get a Whey,Sugar-Free Icecream,Food,10,0,15.00%,N,Y,N,Y,N,Y,N,1
+21,66,Sid07 Designs,Inventions,Other,25,22,75.00%,N,N,N,N,Y,N,N,1
+21,67,The Quirky Nari,Customised Apparels,Clothing,35,0,24.00%,Y,N,N,N,N,Y,N,1
+22,68,Hair Originals,Natural Hair Extensions,Health,60,0,4.00%,Y,Y,N,N,Y,N,N,1
+22,69,Poo de Cologne,Toilet Spray with Essential Oils,Health,0,0,0,N,N,N,N,N,N,N,1
+22,70,Moonshine Meads,Meads,Food,0,0,0,N,N,N,N,N,N,N,1
+22,71,Falhari,Fresh Fruits,Food,0,0,0,N,N,N,N,N,N,N,1
+23,72,Namhya Foods,Ayurvedic Enriched Food,Food,50,50,10.00%,N,N,N,Y,N,N,N,1
+23,73,Urban Monkey,Streetwear,Clothing,0,0,0,N,N,N,N,N,N,N,1
+23,74,Guardian Gears,Motorcycle Luggage,Automobile,0,0,0,N,N,N,N,N,N,N,1
+23,75,Modern Myth,Bags,Consumer,0,0,0,N,N,N,N,N,N,N,1
+24,76,The Sass Bar,Gifts,Consumer,50,0,35.00%,Y,N,N,N,N,N,Y,1
+24,77,KG Agrotech,Agricultural Innovations,Professional Service,10,20,40.00%,N,N,N,N,Y,N,N,1
+24,78,Nuskha Kitchen,Homemade Foods,Food,0,0,0,N,N,N,N,N,N,N,1
+25,79,PawsIndia,Dog Products,Food,50,0,15.00%,Y,N,N,N,N,N,N,1
+25,80,Sunfox Technologies,Portable ECG Device,Health,10,0,6.00%,Y,N,Y,N,Y,Y,Y,1
+25,81,Alpino,Roasted Peanut Products,Food,0,0,0,N,N,N,N,N,N,N,1
+26,82,Isak Fragrances,Perfumes,Clothing,50,0,50.00%,N,N,N,N,Y,N,N,1
+26,83,Julaa Automation,Automatic Cradle,Other,0,0,0,N,N,N,N,N,N,N,1
+26,84,Rare Planet,Handicrafts,Other,65,0,30.00%,N,N,Y,N,N,N,N,1
+27,85,Theka Coffee,Coffee Products,Food,0,0,0,N,N,N,N,N,N,N,1
+27,86,Watt Technovations,Ventilated PPE Kits,Health,10,0,4.00%,Y,N,Y,N,Y,N,Y,1
+27,87,Aliste Technologies,Automation Solutions,Technology,0,0,0,N,N,N,N,N,N,N,1
+27,88,Insurance Samadhan,Insurance Solutions,Professional Service,10,0,4.00%,N,N,N,N,Y,N,N,1
+28,89,Humpy A2,Organic Milk Products,Food,10,0,15.00%,N,N,N,N,Y,Y,Y,1
+28,90,Kunafa World,Kunafa,Food,0,0,0,N,N,N,N,N,N,N,1
+28,91,Gold Safe Solutions Ind.,Anti-Suicidal Fan Rod,Consumer,50,0,30.00%,N,N,N,N,Y,Y,Y,1
+29,92,Wakao Foods,Jackfruit Products,Food,75,0,21.00%,N,N,Y,N,N,Y,Y,1
+29,93,PDD Falcon,Stainless Steel Items,Consumer,0,0,0,N,N,N,N,N,N,N,1
+29,94,PlayBox TV,Streaming Platform,Professional Service,0,0,0,N,N,N,N,N,N,N,1
+30,95,Sippline Drinking Shields,Portable Glass Attachment,Consumer,0,0,0,N,N,N,N,N,N,N,1
+30,96,Kabaddi Adda,All-Kabaddi App,Technology,80,0,6.00%,N,N,Y,N,N,Y,N,1
+30,97,Shades of Spring,Flowers,Consumer,0,0,0,N,N,N,N,N,N,N,1
+30,98,Scholify,Scholarship Platform,Professional Service,0,0,0,N,N,N,N,N,N,N,1
+31,99,Scrapshala,Handmade Reusable Scrap Materials,Consumer,0,0,0,N,N,N,N,N,N,N,1
+31,100,Sabjikothi,Vegetables Storage,Food,0,0,0,N,N,N,N,N,N,N,1
+31,101,AyuRythm,Ayurvedic Wellness App,Health,75,0,2.68%,N,N,N,Y,N,N,N,1
+31,102,Astrix,Smart Locks,Consumer,0,0,0,N,N,N,N,N,N,N,1
+32,103,Thea and Sid,Proposal Solutions,Professional Service,0,0,0,N,N,N,N,N,N,N,1
+32,104,Experential Etc,Technology layered Advertisement Services,Technology,0,0,0,N,N,N,N,N,N,N,1
+32,105,GrowFitter,Rewards App,Technology,50,0,2.00%,N,N,N,Y,N,N,N,1
+32,106,Med Tech,Portable opthalmic devices,Health,0,0,0,N,N,N,N,N,N,N,1
+33,107,Colour Me Mad,Insoles,Health,40,0,25.00%,N,N,Y,N,N,N,N,1
+33,108,Mavi's,Vegan Fermented Food,Food,0,0,0,N,N,N,N,N,N,N,1
+33,109,Tweek Labs,Sportswear,Clothing,60,0,10.00%,Y,Y,N,N,Y,N,N,1
+33,110,Proxgy,VR,Technology,10,0,10.00%,N,Y,N,N,Y,N,N,1
+34,111,Nomad Food Project,Bacon Jams,Food,40,0,20.00%,N,Y,Y,N,N,Y,Y,1
+34,112,Twee in One,Reversible and convertible clothing,Clothing,0,0,0,N,N,N,N,N,N,N,1
+34,113,Green Protein,Plant-Based Protein,Food,0,0,0,N,N,N,N,N,N,N,1
+34,114,On2Cook,Fastest Cooking Device,Consumer,0,0,0,N,N,N,N,N,N,N,1
+35,115,Jain Shikanji,Lemonade,Food,40,0,30.00%,Y,Y,N,Y,N,Y,N,1
+35,116,Woloo,Washroom Finder,Professional Service,0,0,0,N,N,N,N,N,N,N,1
+35,117,Elcare India,Carenting for Elders,Professional Service,0,0,0,N,N,N,N,N,N,N,1
